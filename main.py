@@ -1,1 +1,1 @@
-print('laptop')
+print('l-aptop')
